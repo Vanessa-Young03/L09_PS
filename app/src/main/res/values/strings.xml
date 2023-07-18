@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">L09_PS</string>
+    <string name="SongTitle">Song Title</string>
+    <string name="SongTitleHint">Enter song title here</string>
+    <string name="Singers">Singers</string>
+    <string name="SingersHint">Enter singers name here</string>
+    <string name="Year">Year</string>
+    <string name="YearHint">Enter year of release here</string>
+    <string name="stars">Stars</string>
+    <string name="StarsHint">Enter the number of stars</string>
+    <string name="insert">INSERT</string>
+    <string name="showList">SHOW LIST</string>
+    <string name="update">UPDATE</string>
+    <string name="delete">DELETE</string>
+    <string name="cancel">CANCEL</string>
+</resources>
